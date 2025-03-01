@@ -1,0 +1,340 @@
+{
+    "Home": {
+        "Metadata": {
+            "title": "Wan AI - Free Online Wan 2.1 AI Video Generator",
+            "description": "Wan 2.1 is an advanced AI video generation model by Alibaba. Create videos from text or images with Wan 2.1 AI."
+        },
+        "Hero": {
+            "colorTitle": "Wan 2.1 AI",
+            "title": "Turn Your Ideas into Videos with ",
+            "description": "Wan 2.1 is the leading AI video generation model that turns text and images into stunning, high-quality videos.",
+            "buttonText": "Try Wan 2.1 for free"
+        },
+        "Overview": {
+            "title": "What is Wan 2.1 AI",
+            "description": "Wan 2.1 is an open-source large-scale video generative AI model developed by Alibaba.  It supports text-to-video (T2V) and image-to-video (I2V) generation, making it easy for users to create high-quality videos from simple inputs. The wan 2.1 ai model are now fully open-source.",
+            "buttonText": "Create Video by Wan 2.1"
+        },
+        "KeyFeatures": {
+            "title": "Features of Wan 2.1 AI",
+            "description": "Wan 2.1 is an advanced video generation model designed to deliver high-quality, creative video content with realistic simulations and cinematic effects.",
+            "content": {
+                "length": "7",
+                "1": {
+                    "title": "Complex Motions",
+                    "description": "Effortlessly produces lifelike videos featuring complex actions, fluid spins, and smooth transitions between scenes."
+                },
+                "2": {
+                    "title": "Realistic Physical Simulation",
+                    "description": "Generates videos that accurately simulate real-world physics and realistic object interactions."
+                },
+                "3": {
+                    "title": "Cinematic Quality",
+                    "description": "Creates visuals worthy of the big screen, complete with rich textures and varied artistic styles."
+                },
+                "4": {
+                    "title": "Controllable Editing",
+                    "description": "Features a versatile editing system that supports precise modifications using video or image."
+                },
+                "5": {
+                    "title": "Visual Text Generation",
+                    "description": "Produces text and motion effects straight in video from your input."
+                },
+                "6": {
+                    "title": "Sound Effects & Music",
+                    "description": "Generates audio effects and music that align seamlessly with the visuals."
+                },
+                "7": {
+                    "title": "User-Friendly Tools",
+                    "description": "Provides an accessible and intuitive platform for creating remarkable videos with our technology.  Include create videos from text, Image to Video, and customizable Start and End frames."
+                }
+            }
+        },
+        "Feature1": {
+            "title": "Complex Motions",
+            "description": "Effortlessly produces lifelike videos featuring complex actions, fluid spins, and smooth transitions between scenes."
+        },
+        "Feature2": {
+            "title": "Realistic Physical Simulation",
+            "description": "Generates videos that accurately simulate real-world physics and realistic object interactions."
+        },
+        "Feature3": {
+            "title": "Cinematic Quality",
+            "description": "Creates visuals worthy of the big screen, complete with rich textures and varied artistic styles."
+        },
+        "CTA": {
+            "title": "Ready to Create Your First AI Video with Wan 2.1 AI?",
+            "description": "Wan AI makes it easier than ever to generate stunning videos from text.",
+            "buttonText": "Start Creating for Free"
+        },
+        "footer": {
+            "title": "Wan 2.1 leading AI video generation model"
+        }
+    },
+    "TextToVideo": {
+        "Metadata": {
+            "title": "Wan AI Video Generator - Create Professional AI Videos | Wan AI",
+            "description": "Create stunning videos with Wan AI Video Generator.  Powered by Wan2.1 technology, our tool delivers complex motions, realistic physics, and cinematic quality."
+        },
+        "Hero": {
+            "title": "Wan AI Video Generator",
+            "description": "Powered by Wan 2.1, Generate professional-quality videos with cinematic effects"
+        },
+        "Form": {
+            "title": "Creation Desc",
+            "description": "Enter your text prompt below to create your video",
+            "placeholder": "Describe the video you want to create...",
+            "ideas": "Try this",
+            "button": "Generate Video"
+        },
+        "FormSection": {
+            "title": "Create Your Video Now",
+            "description": "Enter your prompt below to generate a professional video with Wan AI video generator. Be specific about scenes, movements, style, and camera angles for best results."
+        },
+        "KeyFeatures": {
+            "title": "Why Choose Wan AI Video Generator",
+            "description": "Harness the power of Wan AI video generator to create realistic physics videos from simple text prompts or images.",
+            "content": {
+                "length": "6",
+                "1": {
+                    "title": "Complex Motion Generation",
+                    "description": "Generate realistic videos featuring extensive body movements, complex rotations, dynamic scene transitions, and fluid camera motions that look natural and professional."
+                },
+                "2": {
+                    "title": "Accurate Physics Simulation",
+                    "description": "Create videos with realistic object interactions and physical behaviors that adhere to real-world physics, making your content more engaging and believable."
+                },
+                "3": {
+                    "title": "Cinematic Quality Output",
+                    "description": "Enjoy movie-like visuals with rich textures and a variety of stylized effects that give your videos a premium, professional appearance."
+                },
+                "4": {
+                    "title": "Precise Editing Control",
+                    "description": "Make exact adjustments using our universal editing model that allows for detailed modifications using image or video references for perfect results."
+                },
+                "5": {
+                    "title": "Text Generation in Videos",
+                    "description": "Generate dynamic text effects directly in your videos from text prompts in both English and Chinese, enhancing practical applications for marketing and education."
+                },
+                "6": {
+                    "title": "Integrated Sound Effects",
+                    "description": "Add automatically generated sound effects and background music that perfectly align with your visual content and rhythm for complete video productions."
+                }
+            }
+        },
+        "UserGuide": {
+            "title": "How to Use Wan AI Video Generator",
+            "description": "Creating professional videos with Wan AI is straightforward. Follow these simple steps to generate your first video in minutes.",
+            "content": {
+                "length": "4",
+                "1": {
+                    "title": "Enter Your Prompt",
+                    "description": "Type a detailed description of the video you want to create. Include information about scenes, characters, movements, camera angles, and style for best results with the Wan AI video generator."
+                },
+                "2": {
+                    "title": "Customize Settings",
+                    "description": "Adjust video duration, resolution, and style preferences. For more control, upload reference images or videos to guide the Wan AI generation process."
+                },
+                "3": {
+                    "title": "Generate Your Video",
+                    "description": "Click the generate button and let our Wan AI video generator work its magic. Processing time varies based on complexity and length, but most videos are ready within minutes."
+                },
+                "4": {
+                    "title": "Edit and Download",
+                    "description": "Review your generated video, make any necessary adjustments using our editing tools, then download the final result in your preferred format."
+                }
+            }
+        },
+        "CTA": {
+            "title": "Start Creating Professional Videos Today",
+            "description": "No specialized hardware or technical expertise required, just your creativity and our powerful AI technology.",
+            "buttonText": "Start free trial for Wan AI Video Generator"
+        }
+    },
+    "ImageToVideo": {
+        "Metadata": {
+            "title": "Image to Video AI | Transform Image into Dynamic Video | Wan AI",
+            "description": "Create high quality, realistic videos from your photos with Wan 2.1 AI's image to video ai generator."
+        },
+        "Hero": {
+            "title": "Wan AI Image to Video Generator",
+            "description": "Our advanced AI image to video generator converts your static images into dynamic, high-quality videos with realistic movements, cinematic quality."
+        },
+        "Form": {
+            "title": "Upload Image",
+            "description": "Upload your image and add an optional prompt to customize your video",
+            "imageUpload": "Drop your image here or click to upload",
+            "clickText": "Click to Upload",
+            "dragText": "or drag it here",
+            "tips": "Supported formats: JPG, PNG, WEBP",
+            "placeholder": "Describe how you want your image animated (optional)",
+            "button": "Generate Video"
+        },
+        "FormSection": {
+            "title": "Create Videos from Images in Seconds",
+            "description": "Upload your image and add a prompt to guide the video generation. Our AI image to video generator will bring your static images to life with fluid motion and cinematic quality."
+        },
+        "KeyFeatures": {
+            "title": "Why Choose Wan AI Image to Video Generator",
+            "description": "Powered by the groundbreaking Wan 2.1 technology, our image to video AI generator delivers unmatched quality and versatility.",
+            "content": {
+                "length": "4",
+                "1": {
+                    "title": "Complex Motion Generation",
+                    "description": "Our image to video generator excels at creating realistic videos with extensive body movements, complex rotations, and fluid camera motions, bringing your static images to life with natural dynamics."
+                },
+                "2": {
+                    "title": "Physical Simulation",
+                    "description": "Experience videos that accurately simulate real-world physics with realistic object interactions, making your generated content more believable and engaging."
+                },
+                "3": {
+                    "title": "Cinematic Quality",
+                    "description": "Get movie-like visuals with rich textures and stylized effects that transform your images into professional-grade videos with our AI image to video technology."
+                },
+                "4": {
+                    "title": "Precise Controllability",
+                    "description": "Our image to video AI generator offers universal editing capabilities, allowing you to make precise adjustments using image references and prompt guidance."
+                }
+            }
+        },
+        "UserGuide": {
+            "title": "How to Use Our Image to Video AI Generator",
+            "description": "Transform your images into videos in just a few simple steps:",
+            "content": {
+                "length": "4",
+                "1": {
+                    "title": "Upload Your Image",
+                    "description": "Select any high-quality image you want to transform into a video."
+                },
+                "2": {
+                    "title": "Add Your Prompt",
+                    "description": "Describe how you want your image to animate. Include details about movement, transitions, or scene changes."
+                },
+                "3": {
+                    "title": "Customize Settings",
+                    "description": "Adjust video length, resolution, and style preferences to suit your needs."
+                },
+                "4": {
+                    "title": "Generate and Download",
+                    "description": "Click generate and wait while our AI image to video generator works its magic. Download your video once processing is complete."
+                }
+            }
+        },
+        "CTA": {
+            "title": "Ready to Transform Your Images into Dynamic Videos?",
+            "description": "Using Wan AI's image to video ai generator to bring static images to life.",
+            "buttonText": "Start Creating Videos Now"
+        }
+    },
+    "Dashboard": {
+        "Metadata": {
+            "title": "Create | Wan AI",
+            "description": "Wan AI is an innovative AI video creation platform, unleash the full potential of video creation with our powerful generative AI"
+        },
+        "create": {
+            "video": {
+                "title": "AI Video Generator",
+                "description": "Browse various video models in the left panel. Describe your imagined scene or upload a reference image to generate your desired video.",
+                "form": {
+                    "ImageUpload": {
+                        "title": "Image",
+                        "placeholder": "Upload Image",
+                        "description": "Support: JPG, PNG, WEBP | Max file size 10MB"
+                    },
+                    "prompts": {
+                        "title": "Prompt"
+                    },
+                    "model": {
+                        "title": "Model"
+                    },
+                    "aspectRatio": {
+                        "title": "Aspect Ratio"
+                    },
+                    "duration": {
+                        "title": "Video duration"
+                    },
+                    "resolution": {
+                        "title": "Quailty Setting",
+                        "tips": "The resolution of the generated video, Higher definition results in better image quality but longer generation time."
+                    },
+                    "style": {
+                        "title": "Style",
+                        "tips": "Selecting a preset style can meet your needs for customized stylization of video creation, allowing you to quickly complete video creation."
+                    },
+                    "speed": {
+                        "title": "Generation mode",
+                        "tips": "Selecting a preset style can meet your needs for customized stylization of video creation, allowing you to quickly complete video creation."
+                    },
+                    "privateMode": {
+                        "title": "Private Mode",
+                        "tips": "When this option is enabled, hide your generations from the Explore feed.",
+                        "premiumTips": "This is a Premium Feature. Please upgrade your premium subscription plan to access it."
+                    },
+                    "button": "Generate"
+                },
+                "preview": {
+                    "queue": {
+                        "title": "In queue",
+                        "description": "Your video is in the queue and the queue time is being calculated."
+                    },
+                    "progress": {
+                        "title": "Your video is generating",
+                        "description": "The system is operating at full capacity..."
+                    }
+                },
+                "history": {
+                    "title": "History",
+                    "buttonText": "My Creations"
+                }
+            }
+        }
+    },
+    "Sign": {
+        "login_title": "Login",
+        "login_description": "Enter your email below to login to your account",
+        "login_label_email": "Email",
+        "login_label_password": "Password",
+        "login_or": "Or continue with",
+        "login_not_account": "Don't have an account?",
+        "login_with_google": "Login with Google",
+        "login_with_github": "Login with Github",
+        "error": "{error, select, CredentialsSignin {Invalid username or password} other {Unknown error}}",
+        "login_txt": "Login",
+        "signup_txt": "Sign up",
+        "signin_txt": "Sign in",
+        "signup_title": "Create an account",
+        "signup_description": "Enter your information to create an account",
+        "signup_label_email": "Email",
+        "signup_label_name": "User name",
+        "signup_label_password": "Password",
+        "signup_label_confirm_password": "Confirm Password",
+        "signup_btn": "Create account",
+        "signup_or": "Or continue with",
+        "signup_not_account": "Already have an account?",
+        "signup_with_google": "Google",
+        "signup_with_github": "Github",
+
+        "welcome": "Welcome back!",
+        "email": "Email Address",
+        "password": "Password",
+        "username": "User Name",
+        "confirm_password": "Confirm Password",
+        "sign_in_google": "Sign in with Google",
+        "sign_in_github": "Sign in with Github",
+        "sign_up_google": "Sign up with Google",
+        "sign_up_github": "Sign up with Github",
+        "login_with": "or login with email",
+        "sign_in_txt": "Sign In",
+        "or_sign_up": "or sign up",
+        "sign_up_txt": "Sign up",
+        "logout_txt": "logout",
+        "have_account": "Already have an account?",
+        "sign_in_here": "Sign in here",
+        "or": "Or",
+        "email_verify": "Please include a valid email address",
+        "password_verify": "8+ characters required",
+        "username_verify": "Please enter your username",
+        "confirm_password_verify": "Password does not match the password",
+        "menu_account": "My Account"
+    }
+}
